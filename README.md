@@ -1,4 +1,4 @@
-# movielist
+# Movie List App with Firebase Enabled
 
 A new Flutter project.
 
